@@ -1,0 +1,9 @@
+{
+  "name": "ansi-colorcodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "/dev/paul",
+  "license": "MIT"
+}
