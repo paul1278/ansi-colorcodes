@@ -1,9 +1,13 @@
 {
   "name": "ansi-colorcodes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "keywords": [],
-  "author": "/dev/paul",
-  "license": "MIT"
+  "keywords": ["ansi", "colors", "console", "ui"],
+  "author": "Paul",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paul1278/ansi-colorcodes"
+  }
 }

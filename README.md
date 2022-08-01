@@ -1,4 +1,4 @@
-# ANSI-Colorcodes collection for node.js
+# ANSI-Colorcodes collection
 To simply add a collection of ANSI color-codes use this simple package.
 It does not contain any special logic, only an object with the colors.
 Because of that, it comes with zero dependencies and is *very* small.
